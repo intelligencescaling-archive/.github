@@ -8,4 +8,4 @@ stories and tier lists, saved with credit to their authors before the links die.
 - 🛠️ **[website](https://github.com/intelligencescaling-archive/website)**: the site's source
 
 Made something that's archived here? You can ask for it to be removed or credited differently:
-intelligencescaling.archive@gmail.com or [request removal](https://intelscaling.com/removal/).
+removals@intelscaling.com or [request removal](https://intelscaling.com/removal/).
